@@ -2,4 +2,4 @@
 ## Objetivos
 <p> Este proyecto contiene la replica del ejercicio Posicionando cajas poninedo en practica los conocimientos de positioning</p>
 
-![Cancha de Tenis](assets/img/box.png)
+![Cancha de Tenis](assets/img/box.PNG)
